@@ -1,2 +1,2 @@
 # PBO Teori
-ini adalah project kuliah PBO Suci Khairatuz Zahra
+ini adalah project kuliah Suci Khairatuz Zahra
